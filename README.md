@@ -4,7 +4,7 @@ This repository contains my submissions for the Alt School HTML assignments. The
 
 ## Live Links
 
-- [Assignment 1 Live Site](https://christianamaconi.github.io/Alt-school-assignment/Assignment1/index.html)
+- [Assignment 1 Live Site](https://christianamaconi.github.io/Alt-school-assignment/Assignment1/Index.html)
 - [Assignment 2 Live Site-media](https://christianamaconi.github.io/Alt-school-assignment/Assignment2/media.html)
 - [Assignment 2 Live Site-table](https://christianamaconi.github.io/Alt-school-assignment/Assignment2/table.html)
 
